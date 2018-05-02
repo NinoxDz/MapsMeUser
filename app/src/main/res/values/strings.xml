@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapsMeUser</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="open">open</string>
+
+    <string name="colse">colse</string>
+
+
+</resources>

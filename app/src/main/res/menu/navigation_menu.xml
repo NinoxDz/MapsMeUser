@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/normal_mode"
+        android:icon="@mipmap/ic_wb_sunny_black_24dp"
+        android:title="normal mode" />
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@mipmap/ic_brightness_3_black_24dp"
+        android:title="Night Mode" />
+    <item android:id="@id/nav_settings"
+        android:icon="@mipmap/ic_brightness_7_black_24dp"
+        android:title="Retro Mode"/>
+    <item
+        android:id="@id/nav_logout"
+        android:icon="@mipmap/ic_location_searching_black_24dp"
+        android:title="Location" />
+    <item
+        android:id="@+id/Logout"
+        android:icon="@mipmap/ic_exit_to_app_black_24dp"
+        android:title="Logout" />
+
+</menu>
