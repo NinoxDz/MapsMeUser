@@ -71,6 +71,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
 
         style = MapStyleOptions.loadRawResourceStyle(this, R.raw.style);
         style1 = MapStyleOptions.loadRawResourceStyle(this, R.raw.jj);
+
         style2 = MapStyleOptions.loadRawResourceStyle(this, R.raw.normal);
 
 
